@@ -2,6 +2,12 @@ Index of Personal Public Repositories
 =====================================
 
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
+* [Antisynthesis] (https://github.com/antiface/Antisynthesis)
+* [NegawattCoin] (https://github.com/antiface/NegawattCoin)
+* [BookFarm] (https://github.com/antiface/BookFarm)
+* [TomesOfTorment] (https://github.com/antiface/TomesOfTorment)
+* [TextbookArt] (https://github.com/antiface/TextbookArt)
+* [Antiface] (https://github.com/antiface/Antiface)
 * [Discursive Structures] (https://github.com/antiface/DiscursiveStructures)
 * [Quickcards] (https://github.com/antiface/Quickcards)
 * [Articulatio] (https://github.com/antiface/Articulatio)
