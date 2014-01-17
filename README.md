@@ -2,6 +2,7 @@ Index of Personal Public Repositories
 =====================================
 
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
+* [HistoryProject] (https://github.com/antiface/HistoryProject)
 * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
 * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
 * [BookFarm] (https://github.com/antiface/BookFarm)
