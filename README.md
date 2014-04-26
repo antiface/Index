@@ -1,6 +1,7 @@
 Index of Personal Public Repositories
 =====================================
 
+* [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
 * [REFMATS](https://github.com/antiface/Refmats)
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
