@@ -16,7 +16,7 @@ RATIONALE
  * figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner.
 * ZENODO
  * ZENODO builds and operate a simple and innovative service that enables researchers, scientists, EU projects and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of the existing institutional or subject-based repositories of the research communities.
- *ZENODO enables researchers, scientists, EU projects and institutions to:
+  *ZENODO enables researchers, scientists, EU projects and institutions to:
   * easily share the long tail of small research results in a wide variety of formats including text, spreadsheets, audio,
   * video, and images across all fields of science.
   * display their research results and get credited by making the research results citable and integrate them into existing
