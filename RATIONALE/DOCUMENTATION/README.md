@@ -1,3 +1,9 @@
 DOCUMENTATION
 =============
 * The methods that I teach are Ambient, Experimental, Iterated, Evolutionary, and Distributed, as well as Anticipatory and Comprehensive Design Methods.
+* These are the methods I use in my art, but also in every other aspect of my life. Therefore, these are also the methods I use in my documentation practises.
+* Ambient => This means that one is constantly scanning one's environment. One is trying to get a 'moral temperature reading' of the Space in which one is functioning/working. I like to think of it in terms of a kind of Soundscape and associated Soundscape Ecology. Signals and information come to ME. I am merely the Ambient Observer of these things, like a 'Human Sensor'.
+* Experimental => It's experimental because I am constantly trying to improve processes and designs, methodologies, and to do this, I experiment. I usually come to solutions in an iterated, evolutionary style, through excessive experimentation.
+* Iterated/Evolutionary => I am constantly going step-by-step, move-by-move in the Art Ops Game, optimizing my strategies, improving my processes and methodologies. This is as true of my documentation practises as it is with my serial painting methods.
+* Distributed => What makes my iterated, experimental style distributed is the tree structure that I follow. At each time-step I am either staying on the same branch, branching off into a new branch (fork), or else going backwards up a previous branch. I work in a Networked manner in everything I do.
+* I have found these techniques to be ideal for what I do. I am not saying you should replicate them. In nothing that I have said on GitHub, do I tell people what they should do with their time and their resources. I am merely laying out MY METHOD, i.e. What works for ME, not what works for anybody else, since I have no way of knowing that.
