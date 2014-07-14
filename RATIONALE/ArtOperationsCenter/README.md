@@ -12,3 +12,8 @@ OUTPUTS:
 * Intelligence, Artworks
 * Database Arts
 * Strategic Intermedia Arts
+
+PROCESS:
+* Are your ideas FERTILE?
+* Is what you propose EVOLVABLE?
+* Is the option BEAUTIFUL?
