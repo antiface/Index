@@ -16,4 +16,4 @@ OUTPUTS:
 PROCESS:
 * Are your ideas FERTILE?
 * Is what you propose EVOLVABLE?
-* Is the option BEAUTIFUL?
+* Is that option BEAUTIFUL?
