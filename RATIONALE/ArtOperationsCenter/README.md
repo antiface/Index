@@ -1,2 +1,6 @@
 Art Operations Center
 =====================
+INPUTS:
+* ...
+OUTPUTS:
+* ...
