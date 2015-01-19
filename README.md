@@ -5,6 +5,8 @@ Index of Personal Public Repositories
 * [DOCUMENTATION] (https://github.com/antiface/Documentation)
 * [REFMATS](https://github.com/antiface/Refmats)
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
+* [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
+* [Process-Painting] (https://github.com/antiface/ProcessPainting)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
 * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
 * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
