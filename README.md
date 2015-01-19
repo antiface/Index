@@ -3,6 +3,7 @@ Index of Personal Public Repositories
 
 * [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
 * [DOCUMENTATION] (https://github.com/antiface/Documentation)
+* [LOG] (https://github.com/antiface/LOG)
 * [REFMATS](https://github.com/antiface/Refmats)
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
@@ -28,6 +29,7 @@ Index of Personal Public Repositories
 * [CourseMats] (https://github.com/antiface/CourseMats)
 * [Commons] (https://github.com/antiface/Commons)
 * [CRANKTOP] (https://github.com/antiface/CRANKTOP)
+* [FearItself] (https://github.com/antiface/FearItself)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/ca/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://alexgagnon.com" property="cc:attributionName" rel="cc:attributionURL">Alex Gagnon</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB">Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Canada License</a>.
