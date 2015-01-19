@@ -8,6 +8,7 @@ Index of Personal Public Repositories
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
 * [Process-Painting] (https://github.com/antiface/ProcessPainting)
+* [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
 * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
 * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
