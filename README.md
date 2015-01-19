@@ -11,6 +11,7 @@ Index of Personal Public Repositories
 * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
 * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
+* [n00bcoin] (https://github.com/antiface/n00bcoin)
 * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
 * [BookFarm] (https://github.com/antiface/BookFarm)
 * [PilgrimBronze] (https://github.com/antiface/PilgrimBronze)
