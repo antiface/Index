@@ -5,6 +5,7 @@ Index of Personal Public Repositories
 * [DOCUMENTATION] (https://github.com/antiface/Documentation)
 * [LOG] (https://github.com/antiface/LOG)
 * [REFMATS](https://github.com/antiface/Refmats)
+* [Historiotheque] (https://github.com/antiface/Historiotheque)
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
 * [Process-Painting] (https://github.com/antiface/ProcessPainting)
