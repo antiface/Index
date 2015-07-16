@@ -34,5 +34,21 @@ Index of Personal Public Repositories
 * [CRANKTOP] (https://github.com/antiface/CRANKTOP)
 * [FearItself] (https://github.com/antiface/FearItself)
 
+Important Forks
+===============
+* [Think Python] (https://github.com/antiface/ThinkPython)
+* [Think Python 2] (https://github.com/antiface/ThinkPython2)
+* [Think Complexity] (https://github.com/antiface/ThinkComplexity)
+* [Think OS] (https://github.com/antiface/ThinkOS)
+* [Think Bayes] (https://github.com/antiface/ThinkBayes)
+* [Think Bayes 2] (https://github.com/antiface/ThinkBayes2)
+* [Bayes Made Simple] (https://github.com/antiface/BayesMadeSimple)
+* [Think Stats 2] (https://github.com/antiface/ThinkStats2)
+* [Think DSP] (https://github.com/antiface/ThinkDSP)
+* [SQL Databases] (https://github.com/antiface/SQLDatabases)
+* [PyQt Databases] (https://github.com/antiface/PyQtDatabases)
+* [PyQt and SQL] (https://github.com/antiface/PyQt_and_SQL)
+* [SQLite Inspector] (https://github.com/antiface/SQLiteInspector)
+* [order] (https://github.com/antiface/order)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/ca/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://alexgagnon.com" property="cc:attributionName" rel="cc:attributionURL">Alex Gagnon</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB">Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Canada License</a>.
