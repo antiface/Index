@@ -8,6 +8,7 @@ Index of Personal Public Repositories
 * [Historiotheque] (https://github.com/antiface/Historiotheque)
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
+* [Prototype] (https://github.com/antiface/Prototype)
 * [Process-Painting] (https://github.com/antiface/ProcessPainting)
 * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
