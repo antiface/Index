@@ -10,6 +10,7 @@ Index of Personal Public Repositories
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
 * [PROTOTYPE] (https://github.com/antiface/PROTOTYPE)
 * [Process-Painting] (https://github.com/antiface/ProcessPainting)
+* [ActuarialScience] (https://github.com/antiface/ActuarialScience)
 * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
 * [HistoryProject] (https://github.com/antiface/HistoryProject)
 * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
