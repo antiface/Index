@@ -59,4 +59,12 @@ Important Forks
 * [Recipes For Mining Twitter] (https://github.com/antiface/Recipes-for-Mining-Twitter)
 * [Learning Python] (https://github.com/antiface/LearningPython)
 
+Game Theory (GT)
+================
+* [A python implementation of Counterfactual Regret Minimization for poker] (https://github.com/antiface/pycfr)
+* [pure python poker hand evaluator for 5, 6, 7 cards] (https://github.com/antiface/pokerhand-eval)
+* [Counterfactual-Regret-Minimization] (https://github.com/antiface/Counterfactual-Regret-Minimization)
+* [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning] (https://github.com/antiface/td_cfr)
+* [Pareto_Regret_Frontier](https://github.com/antiface/Pareto_Regret_Frontier)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/ca/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://alexgagnon.com" property="cc:attributionName" rel="cc:attributionURL">Alex Gagnon</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en_GB">Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Canada License</a>.
