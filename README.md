@@ -10,6 +10,8 @@ Index of Personal Public Repositories
 * [The Archives Project] (https://github.com/antiface/ArchivesProject)
 * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
 * [PROTOTYPE] (https://github.com/antiface/PROTOTYPE)
+* [Critique] (https://github.com/antiface/Critique)
+* [AntiOS] (https://github.com/antiface/AntiOS)
 * [Process-Painting] (https://github.com/antiface/ProcessPainting)
 * [ActuarialScience] (https://github.com/antiface/ActuarialScience)
 * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
