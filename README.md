@@ -14,6 +14,8 @@ Index of Personal Public Repositories
   * [Historiotheque] (https://github.com/antiface/Historiotheque)
   * [The Archives Project] (https://github.com/antiface/ArchivesProject)
   * [CourseMats] (https://github.com/antiface/CourseMats)
+  * [Quickrefs] (https://github.com/antiface/Quickrefs)
+  * [CrossRefs] (https://github.com/antiface/CrossRefs)
 
 #### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [Critique] (https://github.com/antiface/Critique)
