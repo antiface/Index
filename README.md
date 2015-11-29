@@ -6,13 +6,13 @@ Index of Personal Public Repositories
   * [DOCUMENTATION] (https://github.com/antiface/Documentation)
   * [LOG] (https://github.com/antiface/LOG)
 
-### QUICKREFS
+#### QUICKREFS
   * [REFMATS](https://github.com/antiface/Refmats)
   * [Historiotheque] (https://github.com/antiface/Historiotheque)
   * [The Archives Project] (https://github.com/antiface/ArchivesProject)
   * [CourseMats] (https://github.com/antiface/CourseMats)
 
-### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
+#### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [Critique] (https://github.com/antiface/Critique)
   * [ActuarialScience] (https://github.com/antiface/ActuarialScience)
   * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
@@ -20,12 +20,12 @@ Index of Personal Public Repositories
   * [CompSci] (https://github.com/antiface/CompSci)
   * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
 
-### ART OPERATIONS
+#### ART OPERATIONS
   * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
   * [PROTOTYPE] (https://github.com/antiface/PROTOTYPE)
   * [Process-Painting] (https://github.com/antiface/ProcessPainting)
 
-### FIELDS OF DISCOURSE
+#### FIELDS OF DISCOURSE
   * [Discursive Structures] (https://github.com/antiface/DiscursiveStructures)
   * [Articulatio] (https://github.com/antiface/Articulatio)
   * [CultureMobile] (https://github.com/antiface/CultureMobile)
@@ -34,11 +34,11 @@ Index of Personal Public Repositories
   * [DataTypes] (https://github.com/antiface/DataTypes)
   * [Quickcards] (https://github.com/antiface/Quickcards)
 
-### ANTIOS
+#### ANTIOS
   * [AntiOS] (https://github.com/antiface/AntiOS)
   * [Antiface] (https://github.com/antiface/Antiface)
 
-### NOVELISTIC PHENOMENOLOGY
+#### NOVELISTIC PHENOMENOLOGY
   * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
   * [HistoryProject] (https://github.com/antiface/HistoryProject)
   * [BookFarm] (https://github.com/antiface/BookFarm)
@@ -47,7 +47,7 @@ Index of Personal Public Repositories
   * [TextbookArt] (https://github.com/antiface/TextbookArt)
   * [Crackland] (https://github.com/antiface/Crackland)
 
-### MISCELLANEOUS
+#### MISCELLANEOUS
   * [n00bcoin] (https://github.com/antiface/n00bcoin)
   * [Commons] (https://github.com/antiface/Commons)
   * [CRANKTOP] (https://github.com/antiface/CRANKTOP)
