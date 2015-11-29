@@ -5,11 +5,13 @@ Index of Personal Public Repositories
   * [LICENSE] (https://github.com/antiface/LICENSE)
   * [DOCUMENTATION] (https://github.com/antiface/Documentation)
   * [LOG] (https://github.com/antiface/LOG)
+
 ### QUICKREFS
   * [REFMATS](https://github.com/antiface/Refmats)
   * [Historiotheque] (https://github.com/antiface/Historiotheque)
   * [The Archives Project] (https://github.com/antiface/ArchivesProject)
   * [CourseMats] (https://github.com/antiface/CourseMats)
+
 ### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [Critique] (https://github.com/antiface/Critique)
   * [ActuarialScience] (https://github.com/antiface/ActuarialScience)
@@ -17,10 +19,12 @@ Index of Personal Public Repositories
   * [GameTheory] (https://github.com/antiface/GameTheory)
   * [CompSci] (https://github.com/antiface/CompSci)
   * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
+
 ### ART OPERATIONS
   * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
   * [PROTOTYPE] (https://github.com/antiface/PROTOTYPE)
   * [Process-Painting] (https://github.com/antiface/ProcessPainting)
+
 ### FIELDS OF DISCOURSE
   * [Discursive Structures] (https://github.com/antiface/DiscursiveStructures)
   * [Articulatio] (https://github.com/antiface/Articulatio)
@@ -29,9 +33,11 @@ Index of Personal Public Repositories
   * [SignalScience] (https://github.com/antiface/SignalScience)
   * [DataTypes] (https://github.com/antiface/DataTypes)
   * [Quickcards] (https://github.com/antiface/Quickcards)
+
 ### ANTIOS
   * [AntiOS] (https://github.com/antiface/AntiOS)
   * [Antiface] (https://github.com/antiface/Antiface)
+
 ### NOVELISTIC PHENOMENOLOGY
   * [LabyrinthineMethodSkeleton] (https://github.com/antiface/LabyrinthineMethodSkeleton)
   * [HistoryProject] (https://github.com/antiface/HistoryProject)
@@ -40,6 +46,7 @@ Index of Personal Public Repositories
   * [TomesOfTorment] (https://github.com/antiface/TomesOfTorment)
   * [TextbookArt] (https://github.com/antiface/TextbookArt)
   * [Crackland] (https://github.com/antiface/Crackland)
+
 ### MISCELLANEOUS
   * [n00bcoin] (https://github.com/antiface/n00bcoin)
   * [Commons] (https://github.com/antiface/Commons)
