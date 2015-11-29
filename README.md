@@ -1,6 +1,6 @@
 Index of Personal Public Repositories
 =====================================
-### MODUS OPERANDI
+#### MODUS OPERANDI
   * [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
   * [LICENSE] (https://github.com/antiface/LICENSE)
   * [DOCUMENTATION] (https://github.com/antiface/Documentation)
