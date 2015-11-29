@@ -1,5 +1,8 @@
 Index of Personal Public Repositories
 =====================================
+
+![PORTRAIT OF THE MAN AS A YOUNG ARTIST] (https://databasearts.files.wordpress.com/2015/11/alex_portrait_iconic_24nov15e6.jpg)
+
 #### MODUS OPERANDI
   * [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
   * [LICENSE] (https://github.com/antiface/LICENSE)
