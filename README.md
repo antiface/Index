@@ -8,6 +8,7 @@ Index of Personal Public Repositories
   * [LICENSE] (https://github.com/antiface/LICENSE)
   * [DOCUMENTATION] (https://github.com/antiface/Documentation)
   * [LOG] (https://github.com/antiface/LOG)
+  * [FieldArt] (https://github.com/antiface/FieldArt)
 
 #### QUICKREFS
   * [REFMATS](https://github.com/antiface/Refmats)
