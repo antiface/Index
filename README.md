@@ -26,6 +26,7 @@ Index of Personal Public Repositories
   * [GameTheory] (https://github.com/antiface/GameTheory)
   * [CompSci] (https://github.com/antiface/CompSci)
   * [NegawattCoin] (https://github.com/antiface/NegawattCoin)
+  * [NoiseFieldTheory] (https://github.com/antiface/NoiseFieldTheory)
 
 #### ART OPERATIONS
   * [Art-Ops-In-A-Box] (https://github.com/antiface/ArtOpsInABox)
