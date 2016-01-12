@@ -1,7 +1,7 @@
 Index of Personal Public Repositories
 =====================================
 
-![ANTIOS] (https://databasearts.files.wordpress.com/2015/11/antios_tm_03oct15f_final_for_now.jpg)
+![ANTIOS] (https://historiotheque.files.wordpress.com/2016/01/antios_tm_03oct15f_final_for_now.jpg)
 
 #### MODUS OPERANDI
   * [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
