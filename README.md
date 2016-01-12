@@ -5,6 +5,7 @@ Index of Personal Public Repositories
 
 #### MODUS OPERANDI
   * [RATIONALE] (https://github.com/antiface/Index/tree/master/RATIONALE)
+  * [WORKS] (https://github.com/antiface/WORKS)
   * [LICENSE] (https://github.com/antiface/LICENSE)
   * [DOCUMENTATION] (https://github.com/antiface/Documentation)
   * [LOG] (https://github.com/antiface/LOG)
@@ -20,6 +21,7 @@ Index of Personal Public Repositories
   * [CrossRefs] (https://github.com/antiface/CrossRefs)
 
 #### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
+  * [ExtremePhilosophy] (https://github.com/antiface/ExtremePhilosophy)
   * [Critique] (https://github.com/antiface/Critique)
   * [ActuarialScience] (https://github.com/antiface/ActuarialScience)
   * [Antisynthesis] (https://github.com/antiface/Antisynthesis)
