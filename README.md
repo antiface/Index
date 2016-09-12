@@ -1,5 +1,6 @@
 Index of Personal Public Repositories
 =====================================
+IMPORTANT DISCLAIMER: Most of these repositories do not actually hold any code, nor do they attempt to persuade any given individual to think or feel or do anything. These are artistic works, Documentation if you will in the form of Github Repositories for Art-based Research Projects. If there should be any doubt whatsoever about any of this, then either don't read it, move on, or you can contact me directly and I will remove anything that does not fit my highest standards of decency and prudence. I would not want to inadvertently post anything online that could harm anyone. In fact, the reason I created these was to try to find ways to make the world a safer place.
 
 ![ANTIOS] (https://historiotheque.files.wordpress.com/2016/01/antios_tm_03oct15f_final_for_now.jpg)
 
