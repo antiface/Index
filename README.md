@@ -69,8 +69,8 @@ Reference. https://www.ted.com/talks/james_stavridis_how_nato_s_supreme_commande
 
 - - - - -
 
-Important Forks
-===============
+Important Forks (NOT UNDER THE A.G. LICENSE)
+============================================
 * [Think Python] (https://github.com/antiface/ThinkPython)
 * [Think Python 2] (https://github.com/antiface/ThinkPython2)
 * [Think Complexity] (https://github.com/antiface/ThinkComplexity)
@@ -101,4 +101,5 @@ Game Theory (GT)
 * [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning] (https://github.com/antiface/td_cfr)
 * [Pareto_Regret_Frontier](https://github.com/antiface/Pareto_Regret_Frontier)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://alexgagnon.com/" property="cc:attributionName" rel="cc:attributionURL">Alex Gagnon</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/antiface/Index" rel="dct:source">GITHUB @ ANTIFACE / INDEX</a>.
+A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.
