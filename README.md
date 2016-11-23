@@ -23,6 +23,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [CourseMats] (https://github.com/antiface/CourseMats)
   * [Quickrefs] (https://github.com/antiface/Quickrefs)
   * [CrossRefs] (https://github.com/antiface/CrossRefs)
+  * [Refcards] (https://github.com/antiface/Refcards)
 
 #### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [ExtremePhilosophy] (https://github.com/antiface/ExtremePhilosophy)
