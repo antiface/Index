@@ -14,6 +14,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [DOCUMENTATION](https://github.com/antiface/Documentation)
   * [LOG](https://github.com/antiface/LOG)
   * [FieldArt](https://github.com/antiface/FieldArt)
+  * [Schizobot](https://github.com/antiface/Schizobot)
 
 #### QUICKREFS
   * [REFMATS](https://github.com/antiface/Refmats)
