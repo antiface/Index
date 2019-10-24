@@ -43,6 +43,9 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [PROTOTYPE](https://github.com/antiface/PROTOTYPE)
   * [Process-Painting](https://github.com/antiface/ProcessPainting)
 
+#### Schizobot
+* [Schizobot](https://github.com/antiface/Schizobot)
+
 #### FIELDS OF DISCOURSE
   * [Discursive Structures](https://github.com/antiface/DiscursiveStructures)
   * [Articulatio](https://github.com/antiface/Articulatio)
