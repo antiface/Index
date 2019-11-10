@@ -31,6 +31,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 #### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [ExtremePhilosophy](https://github.com/antiface/ExtremePhilosophy)
   * [Critique](https://github.com/antiface/Critique)
+  * [Catholica](https://github.com/antiface/Catholica)
   * [ActuarialScience](https://github.com/antiface/ActuarialScience)
   * [Antisynthesis](https://github.com/antiface/Antisynthesis)
   * [GameTheory](https://github.com/antiface/GameTheory)
