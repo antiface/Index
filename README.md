@@ -58,7 +58,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 
 #### ANTIOS
   * [AntiOS](https://github.com/antiface/AntiOS)
-  * [Antiface](https://github.com/antiface/Antiface)
+  * [AntifaceCoin](https://github.com/antiface/AntifaceCoin)
 
 #### NOVELISTIC PHENOMENOLOGY
   * [LabyrinthineMethodSkeleton](https://github.com/antiface/LabyrinthineMethodSkeleton)
