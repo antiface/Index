@@ -17,4 +17,4 @@ RATIONALE FOR REFCARDS PROJECT:
 * In Otlet's and Kaiser's eyes, then, the card system was an ideal mechanism for gathering together information units gleaned from many different documentary sources, organizing them according to their intellectual content and guiding users to cards containing information on the particular subject of their concern. As such, it was a sine qua non for their vision of KO based on information analysis.
 
 
-![] (https://lh5.googleusercontent.com/-ZyX1r7AaH34/U4UQ3Z_1bsI/AAAAAAAAFSs/C6ba6man8k0/w316-h552-no/HISTORIOME_HYPERVISOR_27May14c.jpg)
+![](https://lh5.googleusercontent.com/-ZyX1r7AaH34/U4UQ3Z_1bsI/AAAAAAAAFSs/C6ba6man8k0/w316-h552-no/HISTORIOME_HYPERVISOR_27May14c.jpg)
