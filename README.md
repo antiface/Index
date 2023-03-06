@@ -46,6 +46,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 
 #### COMPUTATIONAL CREATIVITY
 * [Schizobot](https://github.com/antiface/Schizobot)
+* [FoundationModels](https://github.com/antiface/FoundationModels)
 
 #### FIELDS OF DISCOURSE
   * [Discursive Structures](https://github.com/antiface/DiscursiveStructures)
