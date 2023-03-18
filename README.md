@@ -4,10 +4,22 @@ IMPORTANT DISCLAIMER: Most of these repositories do not actually hold any code, 
 
 CONCEPT OF WORK: I was profoundly, earnestly inspired by a TED Talk I saw a few years back, given by US Navy Admiral James Stavridis on the concept of "Open Source Security". Given that I had already been working as a visual artist and musical composer for most of my life, and had begun documenting my many artistic projects on this Github account, I decided to do a comprehensive analysis of the idea of having an "algorithm" of some sort that could never be corrupted. That is to say, no matter what came after it was written and run, it could never in any way possible be used to do anything other than the highest, greatest good. I realize that these are high standards and it is possibly impossible to accomplish or attain what is essentially an ideal, but that is what all of this is in any case: This is a concrete attempt at an exploration of the concept of something so good that it can only ever do good no matter what one tries to do with it, so much so that intentionally trying to cause harm or strife or pain or suffering or grief with it will always fail, universally, and only cause good to augment in the world, or be amplified. Call it a "Always Only Good Pass Filter" design concept.
 Reference for part of the inspiration to do only good with my many talents (ORIENTATION/REORIENTATION, SITUATION/SITUATEDNESS, etc.).
-- Ref. [James Stavridis: How NATO's Supreme Commander Thinks About Global Security](https://www.ted.com/talks/james_stavridis_how_nato_s_supreme_commander_thinks_about_global_security)
-
+- Ref. [James Stavridis: A Navy Admiral's thoughts on global security](https://www.ted.com/talks/james_stavridis_how_nato_s_supreme_commander_thinks_about_global_security)
+---------------------------------------------
 ![ANTIOS](https://historiotheque.files.wordpress.com/2016/01/antios_tm_03oct15f_final_for_now.jpg)
+---------------------------------------------
+> __Considering__ that the artist plays an important role in the life and evolution of society and that he should be given the opportunity to contribute to society's development and, as any other citizen, to exercise his responsibilities therein, while preserving his creative inspiration and freedom of expression,
+>
+> __Further recognizing__ that the cultural, technological, economic, social and political development of society influences the status of the artist and that it is consequently necessary to review his status, taking account of social progress in the world,
+> 
+> __Affirming__ the right of the artist to be considered, if he so wishes, as a person actively engaged in cultural work and consequently to benefit, taking account of the particular 'conditions of his artistic profession, from all the legal, social and economic advantages pertaining to the status of workers...
 
+- Ref. [Recommendation concerning the Status of the Artist - UNESCO](https://www.unesco.org/en/legal-affairs/recommendation-concerning-status-artist)
+
+----------------------------------------------
+
+### WORKS BY A.G.:
+----------------------------------------------
 #### MODUS OPERANDI
   * [RATIONALE](https://github.com/antiface/Index/tree/master/RATIONALE)
   * [WORKS](https://github.com/antiface/WORKS)
