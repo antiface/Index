@@ -53,7 +53,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [NoiseFieldTheory](https://github.com/antiface/NoiseFieldTheory)
 
 #### ART OPERATIONS
-  * [Art-Ops-In-A-Box](https://github.com/antiface/ArtOpsInABox)
+  * [Art-Ops-In-A-Box](https://github.com/antiface/ArtOpsInABox/tree/ArtOpsInABox-v.1.0.2)
   * [PROTOTYPE](https://github.com/antiface/PROTOTYPE)
   * [Process-Painting](https://github.com/antiface/ProcessPainting)
 
