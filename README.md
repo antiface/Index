@@ -20,6 +20,10 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 
 ### WORKS BY A.G.:
 ----------------------------------------------
+
+#### NEW PROJECTS
+  * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
+
 #### MODUS OPERANDI
   * [RATIONALE](https://github.com/antiface/Index/tree/master/RATIONALE)
   * [WORKS](https://github.com/antiface/WORKS)
@@ -27,7 +31,6 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [DOCUMENTATION](https://github.com/antiface/Documentation)
   * [LOG](https://github.com/antiface/LOG)
   * [FieldArt](https://github.com/antiface/FieldArt)
-  * [Schizobot](https://github.com/antiface/Schizobot)
   * [ALX](https://github.com/antiface/ALX)
 
 #### QUICKREFS
