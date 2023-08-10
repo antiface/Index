@@ -23,6 +23,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 
 #### NEW PROJECTS
   * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
+  * [Interdisciplinary Art Research](https://github.com/antiface/InterdisciplinaryArtResearch)
 
 #### MODUS OPERANDI
   * [RATIONALE](https://github.com/antiface/Index/tree/master/RATIONALE)
