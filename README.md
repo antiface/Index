@@ -128,4 +128,5 @@ Game Theory (GT)
 * [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning](https://github.com/antiface/td_cfr)
 * [Pareto_Regret_Frontier](https://github.com/antiface/Pareto_Regret_Frontier)
 
-[A.G. (c) 2023. ![A.G. (c) 2023. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+
