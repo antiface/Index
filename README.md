@@ -22,7 +22,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 ----------------------------------------------
 
 #### NEW PROJECTS
-  * [Cultural Software](https://github.com/antiface/CulturalSoftware/blob/main/WARNING.md)
+  * [Cultural Software](https://github.com/antiface/CulturalSoftware)
   * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
   * [Interdisciplinary Art Research](https://github.com/antiface/InterdisciplinaryArtResearch)
 
