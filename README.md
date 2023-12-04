@@ -94,39 +94,5 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
   * [CRANKTOP](https://github.com/antiface/CRANKTOP)
   * [FearItself](https://github.com/antiface/FearItself)
 
-- - - - -
-
-Important Forks (NOT UNDER THE A.G. LICENSE)
-============================================
-* [Think Python](https://github.com/antiface/ThinkPython)
-* [Think Python 2](https://github.com/antiface/ThinkPython2)
-* [Think Complexity](https://github.com/antiface/ThinkComplexity)
-* [Think OS](https://github.com/antiface/ThinkOS)
-* [Think Bayes](https://github.com/antiface/ThinkBayes)
-* [Think Bayes 2](https://github.com/antiface/ThinkBayes2)
-* [Bayes Made Simple](https://github.com/antiface/BayesMadeSimple)
-* [Think Stats 2](https://github.com/antiface/ThinkStats2)
-* [Think DSP](https://github.com/antiface/ThinkDSP)
-* [SQL Databases](https://github.com/antiface/SQLDatabases)
-* [PyQt Databases](https://github.com/antiface/PyQtDatabases)
-* [PyQt and SQL](https://github.com/antiface/PyQt_and_SQL)
-* [SQLite Inspector](https://github.com/antiface/SQLiteInspector)
-* [order](https://github.com/antiface/order)
-* [algorithm.py](https://github.com/antiface/algorithm.py)
-* [PyTonnetz](https://github.com/antiface/PyTonnetz)
-* [shortuuid](https://github.com/antiface/shortuuid)
-* [Rev](https://github.com/antiface/Rev)
-* [Mining The Social Web 2nd Edition](https://github.com/antiface/Mining-the-Social-Web-2nd-Edition)
-* [Recipes For Mining Twitter](https://github.com/antiface/Recipes-for-Mining-Twitter)
-* [Learning Python](https://github.com/antiface/LearningPython)
-
-Game Theory (GT)
-================
-* [A python implementation of Counterfactual Regret Minimization for poker](https://github.com/antiface/pycfr)
-* [pure python poker hand evaluator for 5, 6, 7 cards](https://github.com/antiface/pokerhand-eval)
-* [Counterfactual-Regret-Minimization](https://github.com/antiface/Counterfactual-Regret-Minimization)
-* [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning](https://github.com/antiface/td_cfr)
-* [Pareto_Regret_Frontier](https://github.com/antiface/Pareto_Regret_Frontier)
-
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
 
