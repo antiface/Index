@@ -22,6 +22,7 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 ----------------------------------------------
 
 #### NEW PROJECTS
+  * [Seasons of The Heart](https://github.com/antiface/SeasonsOfTheHeart)
   * [Cultural Software](https://github.com/antiface/CulturalSoftware)
   * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
   * [Interdisciplinary Art Research](https://github.com/antiface/InterdisciplinaryArtResearch)
