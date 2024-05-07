@@ -14,6 +14,12 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 ---------------------------------------------
 ![ANTIOS](https://historiotheque.files.wordpress.com/2016/03/antios_interface_07mar16a.jpg)
 ---------------------------------------------
+![REFCARD - WHAT IS FIELD ART?](https://historiotheque.wordpress.com/wp-content/uploads/2024/05/refcard_12dec15b_accessed_07may24a-07h19_cleaned_processed.png)
+---------------------------------------------
+![THE REFCARDS-SYSTEM](https://historiotheque.wordpress.com/wp-content/uploads/2023/03/14917304_10207500027322434_3143673186887039793_o.jpg)
+---------------------------------------------
+![BOXES OF STUFF - #HISTORIOMICS](https://historiotheque.wordpress.com/wp-content/uploads/2023/03/1925286_10203701677966074_3756947360310477162_n-1.jpg)
+---------------------------------------------
 > __Considering__ that the artist plays an important role in the life and evolution of society and that he should be given the opportunity to contribute to society's development and, as any other citizen, to exercise his responsibilities therein, while preserving his creative inspiration and freedom of expression,
 >
 > __Further recognizing__ that the cultural, technological, economic, social and political development of society influences the status of the artist and that it is consequently necessary to review his status, taking account of social progress in the world,
