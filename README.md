@@ -68,6 +68,7 @@ __*By implementing these strategies and fostering international cooperation, the
   * [Cultural Software](https://github.com/antiface/CulturalSoftware)
   * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
   * [Interdisciplinary Art Research](https://github.com/antiface/InterdisciplinaryArtResearch)
+  * [DIDI](https://github.com/antiface/DIDI)
 
 #### MODUS OPERANDI
   * [RATIONALE](https://github.com/antiface/Index/tree/master/RATIONALE)
