@@ -1,6 +1,6 @@
 RATIONALE FOR REFCARDS PROJECT:
 ==============================
-* The basic elements, the technology of the OIB's repertories, were "information" cards (the cards bearing the entries), divisionary cards, catalog drawers, the "meubles classeurs" or the furniture containing banks of drawers.
+* The basic elements, the technology of the Office of International Bibliography's (OIB) repertories, were "information" cards (the cards bearing the entries), divisionary cards, catalog drawers, the "meubles classeurs" or the furniture containing banks of drawers.
 	* The combination of these different elements...permits the establishment of card repertories similar to a true book. The information cards constitute the leaves of the book; the divisionary cards, variously combined, indicate the exterior parts, the chapters, the sections and the paragraphs; the binding consists of the drawer itself, the movable rod of which functions as the spine...The classification numbers on the cards are really a pagination for a work whose contents table is the table of the Decimal Classification. Such a book is consulted as readily as any other. It is necessary only to flick the cards over on their lower edge, as one would turn the pages of a book, in order to read them with the greatest ease.
 	* The advantages of card repertories over other kind of repertories compiled in the form of registers, books or notebooks are as follows:
 		1. Successive daily intercalations of new material are permitted;
