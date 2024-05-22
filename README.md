@@ -20,6 +20,9 @@ Reference for part of the inspiration to do only good with my many talents (ORIE
 ---------------------------------------------
 ![BOXES OF STUFF - #HISTORIOMICS](https://historiotheque.wordpress.com/wp-content/uploads/2023/03/1925286_10203701677966074_3756947360310477162_n-1.jpg)
 ---------------------------------------------
+*UNESCO's 1980 Recommendation concerning the Status of the Artist was a significant step toward recognizing and improving the professional and social conditions of artists. It provided a comprehensive framework for member states to enhance the status of artists, promote artistic creation, and integrate the arts into broader cultural and social policies. By implementing these recommendations, UNESCO aimed to ensure that artists could contribute to cultural development and societal progress under conditions that respect their rights and professional needs. The following is something from that document which I find particularly pertinent and so mention it here:*
+
+
 > __Considering__ that the artist plays an important role in the life and evolution of society and that he should be given the opportunity to contribute to society's development and, as any other citizen, to exercise his responsibilities therein, while preserving his creative inspiration and freedom of expression,
 >
 > __Further recognizing__ that the cultural, technological, economic, social and political development of society influences the status of the artist and that it is consequently necessary to review his status, taking account of social progress in the world,
