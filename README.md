@@ -72,6 +72,7 @@ __*By implementing these strategies and fostering international cooperation, the
   * [Noise In The Workspace](https://github.com/antiface/NoiseInTheWorkspace)
   * [Interdisciplinary Art Research](https://github.com/antiface/InterdisciplinaryArtResearch)
   * [DIDI](https://github.com/antiface/DIDI)
+  * [The Risk-Project](https://github.com/antiface/TheRiskProject)
 
 #### MODUS OPERANDI
   * [RATIONALE](https://github.com/antiface/Index/tree/master/RATIONALE)
