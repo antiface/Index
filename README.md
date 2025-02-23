@@ -67,6 +67,7 @@ __*By implementing these strategies and fostering international cooperation, the
 ----------------------------------------------
 
 #### NEW PROJECTS
+  * [HISTORIOPHANY](https://github.com/antiface/HISTORIOPHANY/)
   * [PROJECTS (LIST)](https://github.com/antiface/PROJECTS)
   * [DATABASE ARTS](https://github.com/antiface/DATABASE_ARTS)
   * [Seasons of The Heart](https://github.com/antiface/SeasonsOfTheHeart)
