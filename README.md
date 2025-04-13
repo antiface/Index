@@ -63,7 +63,174 @@ __*By implementing these strategies and fostering international cooperation, the
 
 ----------------------------------------------
 
+```mermaid
+%% System Dynamics of Historiopathy Diagram
+graph TD
+
+    %% Define Node Styles using Class Definitions
+    classDef unitNode fill:#ccffcc,stroke:#333,stroke-width:2px
+    classDef processNode fill:#cceeff,stroke:#333,stroke-width:2px,rx:5,ry:5
+    classDef outcomeNode fill:#ffcccc,stroke:#900,stroke-width:2px
+    classDef riskNode fill:#eee,stroke:#666,stroke-width:1px
+
+    %% === 1. External Risk Factors (Inputs) ===
+    subgraph RiskFactors [External Risk Factors - Gray Arrows Inward]
+        RF1(Structural Inequality\ncatalyst: inequity fuels conflict)
+        RF2(Institutional Rigidity\ncatalyst: hinders adaptation)
+        RF3(Resource Scarcity\ncatalyst: triggers competition)
+        RF4(Cultural Fragmentation\ncatalyst: erodes cohesion)
+        RF5(External Pressures\ncatalyst: trade/war/env stress)
+        RF6(Misinformation/Gaps\ncatalyst: distorts perception)
+        RF7(Overextension\ncatalyst: strains capacity)
+        RF8(Unresolved Tensions\ncatalyst: latent conflict)
+    end
+    class RF1,RF2,RF3,RF4,RF5,RF6,RF7,RF8 riskNode
+
+    %% === 2. Atomic Units (Central Hub - Green Nodes) ===
+    subgraph AtomicUnits [Atomic Units - Foundational Components]
+        U1(Individuals\napathy, aggression)
+        U2(Relationships\ntrust, rivalry, comms)
+        U3(Subgroups\nfactions, classes)
+        U4(Institutions\ngov, corps, structures)
+        U5(Resources\nscarcity, inequity)
+        U6(Norms/Values\nshared beliefs, rules)
+        U7(Information Flows\nmedia, reports, gossip)
+        U8(External Interfaces\ntrade, diplomacy, env interaction)
+    end
+    class U1,U2,U3,U4,U5,U6,U7,U8 unitNode
+
+    %% === 3. Functional Processes (Middle Layer - Blue Boxes) ===
+    subgraph FunctionalProcesses [Functional Processes - System Physiology]
+        P1(Coordination\nfailure: misalignment)
+        P2(Adaptation\nfailure: rigidity)
+        P3(Resource Allocation\nfailure: maldistribution)
+        P4(Conflict Resolution\nfailure: escalation)
+        P5(Identity Formation\nfailure: fragmentation)
+        P6(Information Processing\nfailure: distortion, overload)
+        P7(External Exchange\nfailure: isolation, vulnerability)
+    end
+    class P1,P2,P3,P4,P5,P6,P7 processNode
+
+    %% === 4. Outcomes (Outer Layer - Red Nodes) ===
+    subgraph Outcomes [Historiopathies - Emergent Disorders]
+        O1(Political\nupheaval, rigidity, erosion)
+        O2(Economic\ncollapse, hyperinflation, inequality)
+        O3(Cultural\npolarization, stagnation, alienation)
+        O4(Ecological\ncollapse, degradation, disruption)
+        O5(Epidemiological\npandemic, endemic burden, healthcare collapse)
+        O6(Technological\ndisplacement, surveillance, epistemic chaos)
+        O7(Organizational\nparalysis, leadership failure, drift)
+        O8(Social\nfragmentation, mob hysteria, exclusion)
+        O9(Moral/Ethical\ndecay, justice failure, panic)
+        O10(Existential\npurpose crisis, fatalism, survival threat)
+    end
+    class O1,O2,O3,O4,O5,O6,O7,O8,O9,O10 outcomeNode
+
+    %% === Connections ===
+
+    %% Risk Factors -> Units (Stressors impacting the core)
+    RF1 --> U5
+    RF1 --> U3
+    RF1 --> U2
+    RF2 --> U4
+    RF2 --> P2
+    RF3 --> U5
+    RF3 --> P3
+    RF4 --> U6
+    RF4 --> U2
+    RF4 --> P5
+    RF5 --> U8
+    RF5 --> U5
+    RF6 --> U7
+    RF6 --> P6
+    RF7 --> U4
+    RF7 --> U5
+    RF8 --> U2
+    RF8 --> U3
+    RF8 --> P4
+
+    %% Unit Interdependencies (Simplified - showing key links)
+    U1 <--> U2
+    U2 <--> U3
+    U3 <--> U4
+    U4 <--> U5
+    U6 <--> U1
+    U7 <--> U1
+    U7 <--> U4
+    U8 <--> U4
+    U8 <--> U5
+
+    %% Units -> Processes (Units feeding into functions)
+    U1 --> P1
+    U3 --> P1
+    U4 --> P1
+    U7 --> P2
+    U6 --> P2
+    U4 --> P2
+    U8 --> P2
+    U5 --> P3
+    U4 --> P3
+    U2 --> P4
+    U3 --> P4
+    U4 --> P4
+    U6 --> P5
+    U7 --> P5
+    U1 --> P5
+    U7 --> P6
+    U1 --> P6
+    U4 --> P6
+    U8 --> P7
+    U5 --> P7
+    U4 --> P7
+
+    %% Processes -> Outcomes (Failed processes leading to Historiopathies)
+    P1 -->|"Failed Coordination"| O1
+    P1 -->|"Failed Coordination"| O7
+    P2 -->|"Failed Adaptation"| O3
+    P2 -->|"Failed Adaptation"| O4
+    P2 -->|"Failed Adaptation"| O6
+    P3 -->|"Failed Allocation"| O2
+    P3 -->|"Failed Allocation"| O8
+    P4 -->|"Failed Conflict Res."| O1
+    P4 -->|"Failed Conflict Res."| O8
+    P4 -->|"Failed Conflict Res."| O3
+    P4 -->|"Failed Conflict Res."| O9
+    P5 -->|"Failed Identity"| O3
+    P5 -->|"Failed Identity"| O8
+    P5 -->|"Failed Identity"| O10
+    P6 -->|"Failed Info Proc."| O6
+    P6 -->|"Failed Info Proc."| O9
+    P6 -->|"Failed Info Proc."| O3
+    P7 -->|"Failed Ext. Exch."| O2
+    P7 -->|"Failed Ext. Exch."| O4
+    P7 -->|"Failed Ext. Exch."| O1
+
+    %% Threshold Breaches (Labeled dashed links on critical P->O pathways)
+    P4 -.->|"Trust Collapse"| O3
+    P3 -.->|"Resource Depletion"| O2
+    P2 -.->|"Adaptation Limit"| O4
+
+    %% Feedback Loops (Outcome -> Unit/Process links with polarity)
+    O1 -->|"+ Escalation: Fuels Distrust/Factionalism"| U2
+    O1 -->|"+ Escalation: Fuels Distrust/Factionalism"| U3
+    O3 -->|"- Stagnation: Reinforces Rigidity"| U4
+    O3 -->|"- Stagnation: Reinforces Rigidity"| P2
+
+    %% Cascading Failures (Outcome -> Outcome links)
+    O2 ==>|"Econ Failure Fuels Unrest"| O1
+    O1 ==>|"Political Instability Fuels Social Fragmentation"| O8
+    O4 ==>|"Eco Degradation Fuels Scarcity/Conflict"| O2
+    O4 ==>|"Eco Degradation Fuels Scarcity/Conflict"| O8
+    O3 ==>|"Polarization Fuels Ethical Decay"| O9
+    O6 ==>|"Tech Disruption Fuels Econ Stress"| O2
+    O7 ==>|"Org Failure Erodes Trust/Coordination"| O1
+    O7 ==>|"Org Failure Erodes Trust/Coordination"| P1
+```
+
+----------------------------------------------
+
 ### WORKS BY A.G.:
+
 ----------------------------------------------
 
 #### NEW PROJECTS
