@@ -234,6 +234,7 @@ graph TD
 ----------------------------------------------
 
 #### NEW PROJECTS
+  * [Reflexive Design](https://github.com/antiface/ReflexiveDesign)
   * [HISTORIOPHANY](https://github.com/antiface/HISTORIOPHANY/)
   * [PROJECTS (LIST)](https://github.com/antiface/PROJECTS)
   * [DATABASE ARTS](https://github.com/antiface/DATABASE_ARTS)
