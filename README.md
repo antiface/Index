@@ -99,6 +99,9 @@ __*By implementing these strategies and fostering international cooperation, the
   * [Quickrefs](https://github.com/antiface/Quickrefs)
   * [CrossRefs](https://github.com/antiface/CrossRefs)
   * [Refcards](https://github.com/antiface/Refcards)
+  * [RefcardsIndex](https://github.com/antiface/RefcardsIndex)
+  * [RefcardsSystem](https://github.com/antiface/RefcardsSystem)
+  * [RefcardsTheory](https://github.com/antiface/RefcardsTheory)
 
 #### EXTREME PHILOSOPHY - THEORETICAL SCAN-PATHS
   * [ExtremePhilosophy](https://github.com/antiface/ExtremePhilosophy)
