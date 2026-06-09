@@ -68,6 +68,7 @@ __*By implementing these strategies and fostering international cooperation, the
 ----------------------------------------------
 
 #### NEW PROJECTS
+  * [Design Concepts for Novels by A.G.](https://github.com/antiface/NOVELS/tree/main)
   * [ARCHIVILLUS](https://github.com/antiface/ARCHIVILLUS)
   * [Reflexive Design](https://github.com/antiface/ReflexiveDesign)
   * [HISTORIOPHANY](https://github.com/antiface/HISTORIOPHANY/)
