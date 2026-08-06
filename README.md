@@ -68,6 +68,7 @@ __*By implementing these strategies and fostering international cooperation, the
 ----------------------------------------------
 
 #### NEW PROJECTS
+  * [Schizobot Lite](https://github.com/antiface/SchizobotLite)
   * [Anatomy of an Aesthetic Problem](https://github.com/antiface/AnatomyOfAnAestheticProblem)
   * [Design Concepts for Novels by A.G.](https://github.com/antiface/NOVELS/tree/main)
   * [ARCHIVILLUS](https://github.com/antiface/ARCHIVILLUS)
